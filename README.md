@@ -2,6 +2,9 @@
 
 This Python script implements a Pomodoro timer using the Tkinter library. It helps users manage their work and break intervals effectively.
 
+![pomodoro](https://github.com/user-attachments/assets/e461f1e1-2f2b-479f-b145-319f1fa89b61)
+
+
 ## Features
 
 - **Timer Mechanism**: The script implements the Pomodoro technique, alternating between work sessions and break intervals.
