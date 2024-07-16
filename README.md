@@ -5,6 +5,7 @@ This Python script implements a Pomodoro timer using the Tkinter library. It hel
 ![pomodoro](https://github.com/user-attachments/assets/e461f1e1-2f2b-479f-b145-319f1fa89b61)
 ![pomodoro](https://github.com/user-attachments/assets/244f1a63-b955-4123-927d-02313037ea73)
 ![pomodoro 3](https://github.com/user-attachments/assets/d99db47a-8460-4e7a-9cf4-451ce1290cb2)
+![break](https://github.com/user-attachments/assets/ab27cf07-b273-486d-961d-3b8c0bd4e560)
 
 
 ## Features
