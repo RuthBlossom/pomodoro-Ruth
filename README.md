@@ -3,6 +3,7 @@
 This Python script implements a Pomodoro timer using the Tkinter library. It helps users manage their work and break intervals effectively.
 
 ![pomodoro](https://github.com/user-attachments/assets/e461f1e1-2f2b-479f-b145-319f1fa89b61)
+![pomodoro](https://github.com/user-attachments/assets/244f1a63-b955-4123-927d-02313037ea73)
 
 
 ## Features
